@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @marwandagha
-- 👀 I’m interested in music and laravel
-- 🌱 I’m currently learning React
 - 📫 How to reach me "marwandagha@gmail.com"
 
 <!---
